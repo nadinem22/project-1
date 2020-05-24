@@ -1,0 +1,18 @@
+/* Big Tablet to 1200 px */
+
+@media only screen and (max-width:1200px) {}
+
+
+/* small Tablet to big Tblet from 768 to 1023 px */
+
+@media only screen and (max-width:1023px) {}
+
+
+/* small phones to small Tblet from 481 to 767px */
+
+@media only screen and (max-width:767px) {}
+
+
+/* small phones from 0 to 480px */
+
+@media only screen and (max-width:480px) {}
